@@ -21,22 +21,22 @@ export const navItems = [
 
 export const testimonials = [
   {
-    user: "John Doe",
-    company: "Stellar Solutions",
+    user: "John M.",
+    company: "Basketball Ethusiast",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "Goatbl has completely transformed my fantasy sports experience. The blockchain technology ensures everything is fair and transparent, and I love the gamified rewards system!",
   },
   {
-    user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    user: "Sarah Yetunde",
+    company: "Tech-Savvy Sports Fan",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "The VR integration is mind-blowing! It feels like I'm right there in the stadium, cheering for my team. Goatbl is a game-changer.",
   },
   {
-    user: "David Johnson",
-    company: "Quantum Innovations",
+    user: "Mike T",
+    company: "Fantasy League Veteran",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "I've been playing fantasy sports for years, and Goatbl is by far the best platform I've used. The player tokens add a whole new level of strategy and excitement.",
   },
   {
     user: "Ronee Brown",
@@ -155,7 +155,6 @@ export const pricingOptions = [
 
 export const resourcesLinks = [
   { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
   { href: "#", text: "Tutorials" },
   { href: "#", text: "API Reference" },
   { href: "#", text: "Community Forums" },
