@@ -61,33 +61,33 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Blockchain Security:",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Experience unparalleled transparency and security with our Solana-based platform. Say goodbye to unfair play and tampering.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Fantasy Leagues:",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Create or join fantasy basketball leagues, draft your favorite players, and compete with friends and fans globally.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Player Tokens:",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Own unique player tokens that you can trade, sell, or hold. Build the ultimate team and show off your collection.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Staking and Rewards:",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Stake your tokens and earn rewards based on your team’s performance. Win exclusive perks and experiences.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Immersive VR Experience:",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Dive into the game with our VR integration. Experience live events and interact with other fans in a virtual arena.",
   },
   {
     icon: <GlobeLock />,
