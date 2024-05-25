@@ -99,24 +99,24 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Sign Up:",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Find a league that fits your style or create your own and invite friends.",
   },
   {
-    title: "Review code without worry",
+    title: "Join a League:",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Find a league that fits your style or create your own and invite friends.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Draft Your Team:",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Select your players from the available tokens and build your dream team.",
   },
   {
-    title: "Share work in minutes",
+    title: "Compete and Win:",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Manage your team, participate in matches, and earn points and rewards based on real-life performances.",
   },
 ];
 
